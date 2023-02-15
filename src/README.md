@@ -18,3 +18,7 @@
 ## 4. Utils
 - 금액 세자리마다 콤마(,)를 표시할 수 있도록 포맷팅 해주는 유틸 함수
 - 입력값이 숫자인지 확인하는 유틸 함수
+
+
+## 5. Reference
+- https://paulallies.medium.com/clean-mvvm-with-react-and-react-hooks-ebc37b22542f
